@@ -1,0 +1,8 @@
+#Virtual Environments
+generator_env/
+
+#Python cache
+__pycache__/
+
+#env files
+*.env
