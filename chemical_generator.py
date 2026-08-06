@@ -1,6 +1,7 @@
 import random
 import numpy as np
 import pandas as pd
+
 # Generate a list of active ingredients with unique identifiers
 def generate_active_ingredients(num_chemicals):
     active_ingredients = []
